@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siphonhata&label=Profile%20views&color=0e75b6&style=flat" alt="siphonhata" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Elixir**
 
 - 📫 How to reach me **siphonhata@gmail.com**
 
