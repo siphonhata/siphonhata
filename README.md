@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sipho Ndlalane</h1>
-<h3 align="center">A passionate software developer from South Africa (Pretoria)</h3>
+<h3 align="center">A passionate Software Engineer from South Africa (Pretoria)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siphonhata&label=Profile%20views&color=0e75b6&style=flat" alt="siphonhata" /> </p>
 
