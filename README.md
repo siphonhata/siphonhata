@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siphonhata&label=Profile%20views&color=0e75b6&style=flat" alt="siphonhata" /> </p>
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **Elixir** and **MERN Stack**
 
-- 📫 How to reach me **siphonhata@gmail.com**
+- 📫 How to reach me **siphonhata@gmail.com** or **+27763351282**
 
 - ⚡ Fun fact **I think I am funny.**
 
