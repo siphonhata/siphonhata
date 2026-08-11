@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sipho Ndlalane</h1>
 
-<h3 align="center">
-  Software Engineer • Full-Stack Developer • Cloud & DevOps Enthusiast
-</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | Cloud & DevOps</h3>
 
 <p align="center">
   <a href="https://github.com/siphonhata">
@@ -12,10 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/siphonhata">
-    <img src="https://img.shields.io/github/followers/siphonhata?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/siphonhata?style=for-the-badge&logo=github" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/siphonhata?tab=repositories">
-    <img src="https://img.shields.io/github/stars/siphonhata?label=Stars&style=for-the-badge" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/siphonhata?style=for-the-badge&logo=github" alt="GitHub Stars"/>
   </a>
 </p>
 
@@ -23,205 +21,239 @@
 
 ## 👨🏾‍💻 About Me
 
-I'm a **Software Engineer from Pretoria, South Africa 🇿🇦** focused on building reliable, scalable and modern software systems.
+I'm a **Software Engineer from Pretoria, South Africa 🇿🇦** with a passion for building reliable, scalable and modern software systems.
 
-I enjoy working across the entire development lifecycle — from designing APIs and databases to building frontend applications, deploying infrastructure and monitoring systems in production.
+My interests span across **backend engineering, full-stack development, cloud infrastructure, DevOps, SRE and IoT**.
 
-* 💻 **3+ years of software engineering experience**
-* ☕ Strong focus on **Java 17 & Spring Boot**
-* ⚛️ Building modern applications with **Next.js, React & TypeScript**
-* 🏗️ Designing APIs, backend services and scalable architectures
-* ☁️ Working with **AWS & cloud infrastructure**
-* 🐳 Containerising applications with **Docker**
-* 🏗️ Infrastructure as Code with **Terraform**
-* 📊 Interested in **SRE, observability and system reliability**
-* 📈 Experience with **Prometheus, Grafana & ELK**
-* 📱 Building applications with **React Native & Expo**
-* 🔌 Experience working with **IoT, embedded systems and connected devices**
-* 🗄️ Working with **PostgreSQL, Supabase, MySQL & Firebase**
-* 🔀 Comfortable with **Git, GitHub and collaborative development**
-* 🚀 Always building, learning and experimenting
+I enjoy working on problems that require more than just writing code — understanding how systems communicate, how they scale, how they fail and how they can be monitored and improved.
 
-> **I like turning ideas into working software.**
+* 💻 3+ years of software engineering experience
+* ☕ Java 17 & Spring Boot
+* ⚛️ Next.js, React & TypeScript
+* 🗄️ PostgreSQL, Supabase, MySQL & Firebase
+* ☁️ AWS & cloud technologies
+* 🐳 Docker & containerisation
+* 🏗️ Terraform & Infrastructure as Code
+* 📊 Prometheus, Grafana & ELK
+* 🔧 Git & GitHub
+* 📱 React Native & Expo
+* 🔌 IoT & connected systems
+* 🐧 Linux & server administration
+* 🚀 Interested in scalable and distributed systems
+
+> **I enjoy understanding how things work — from the frontend all the way down to the infrastructure.**
 
 ---
 
-# 🧰 Tech Stack
+# 🧠 Engineering Focus
 
-## Languages
+### ☕ Backend Engineering
+
+I enjoy building backend services and APIs using:
+
+`Java 17` • `Spring Boot` • `REST APIs` • `JPA/Hibernate` • `PostgreSQL`
+
+Areas of interest:
+
+* API design
+* Authentication & authorisation
+* Database design
+* Asynchronous processing
+* Exception handling
+* Dependency Injection
+* Application architecture
+* Performance & scalability
+
+---
+
+### ⚛️ Full-Stack Development
+
+Modern web development using:
+
+`Next.js` • `React` • `TypeScript` • `Tailwind CSS`
+
+I enjoy building applications with a strong focus on:
+
+* Clean UI
+* Reusable components
+* API integration
+* Authentication
+* Responsive design
+* Performance
+* Maintainable architecture
+
+---
+
+### ☁️ Cloud & DevOps
+
+Working with:
+
+`AWS` • `Docker` • `Terraform` • `Linux` • `Git` • `GitHub`
+
+Areas I'm interested in:
+
+* Cloud infrastructure
+* Infrastructure as Code
+* Containerisation
+* CI/CD
+* Server provisioning
+* Deployment automation
+* Networking
+* Infrastructure security
+
+---
+
+### 📊 SRE & Observability
+
+I've worked with monitoring and observability technologies including:
+
+`Prometheus` • `Grafana` • `ELK Stack`
+
+I'm particularly interested in:
+
+* Observability
+* Monitoring
+* Logging
+* Metrics
+* Alerting
+* SLIs
+* SLOs
+* SLAs
+* Golden Signals
+* MTTR
+* MTBF
+* Incident response
+* System reliability
+* Graceful failure
+* Fault tolerance
+
+---
+
+### 🔌 IoT & Connected Systems
+
+I also have experience working with **IoT and connected systems**, including:
+
+* IoT gateways
+* Edge devices
+* Networking
+* Device monitoring
+* Server provisioning
+* Hardware/software integration
+* Connected infrastructure
+
+---
+
+# 🛠️ Technology Stack
+
+### Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,typescript,javascript,python,cpp,c,cs,php" />
 </p>
 
-## Frontend
+### Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" />
 </p>
 
-## Backend
+### Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
-## Databases & Backend Services
+### Databases & Services
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" />
 </p>
 
-## Cloud, DevOps & Infrastructure
+### Cloud & DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,git,github" />
 </p>
 
-## Mobile
+### Mobile
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,androidstudio" />
 </p>
 
-<p>
-  <b>React Native • Expo • Android • REST APIs</b>
-</p>
+**React Native • Expo • Android**
 
-## Observability & SRE
+### Observability
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
 </p>
 
-* Prometheus
-* Grafana
-* ELK Stack
-* Monitoring & Alerting
-* Logging
-* Metrics & Tracing
-* SLI / SLO / SLA
-* Golden Signals
-* Incident Response
-* MTTR / MTBF
-* Reliability Engineering
-* Graceful Failure
-* Circuit Breakers
-
 ---
 
-# 🚀 What I'm Currently Building
+# 📚 Currently Learning & Improving
 
-### 💼 Capstart
+I'm continuously developing my skills in:
 
-A modern platform focused on **startup cap tables, investors and ownership management**.
-
-**Stack**
-
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Paystack` `React`
-
-Key areas include:
-
-* 📊 Cap table management
-* 💰 Investor management
-* 🌍 Multi-region support
-* 💱 Multi-currency workflows
-* ✍🏾 Investor signing
-* 🔐 Authentication
-* 💳 Payment integration
-* 📱 Web & mobile experiences
-
----
-
-### 🌐 SmartWebSync Solutions
-
-I'm also involved in building **SmartWebSync Solutions**, a technology business focused on helping businesses build and manage digital solutions.
-
-Areas include:
-
-* 🌐 Web development
-* 📱 Mobile applications
-* 🔌 IoT solutions
-* ☁️ Managed hosting
-* 🔍 Local SEO
-* 👨🏾‍💻 Software development
-* 🎓 Developer mentoring
-
----
-
-# 🏗️ Engineering Interests
-
-I'm particularly interested in:
-
-### ☕ Backend Engineering
-
-`Java 17` • `Spring Boot` • `REST APIs` • `JPA/Hibernate` • `PostgreSQL`
-
-### ⚛️ Modern Full-Stack Development
-
-`Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `Supabase`
-
-### ☁️ Cloud Engineering
-
-`AWS` • `Docker` • `Terraform` • `Linux` • `CI/CD`
-
-### 📊 Site Reliability Engineering
-
-`Prometheus` • `Grafana` • `ELK` • `SLIs` • `SLOs` • `SLAs` • `Observability`
-
-### 🏗️ System Design
-
-`Distributed Systems` • `API Design` • `Scalability` • `Fault Tolerance` • `Caching` • `Asynchronous Systems`
-
-### 🔌 IoT & Edge Computing
-
-Experience working with connected devices, gateways, networking and monitoring infrastructure.
-
----
-
-# 📚 Currently Learning
-
-I'm continuously improving my engineering skills in:
-
-* ☕ Advanced **Java 17**
-* 🌱 **Spring Boot**
-* 🏗️ System Design & Architecture
+* ☕ Advanced Java 17
+* 🌱 Spring Boot
+* 🏗️ System Design
+* 🔄 Distributed Systems
+* ⚡ Asynchronous Programming
 * ☁️ AWS Cloud Architecture
-* 🐳 Docker & Containerisation
-* 🏗️ Terraform & Infrastructure as Code
+* 🐳 Docker & Containers
+* 🏗️ Terraform
 * 📊 Observability & SRE
-* ⚡ Distributed & asynchronous systems
-* 🔐 Authentication & application security
-* 🚀 Performance & scalability
-* 🧪 Testing and production-quality engineering
+* 🔐 Application Security
+* 🧪 Automated Testing
+* 🚀 Performance & Scalability
+* 🔁 CI/CD & Deployment Automation
 
 ---
 
-# 🧑🏾‍💻 Developer Workflow
+# 🏗️ Engineering Principles
 
 ```text
-Idea
-  ↓
-Architecture
-  ↓
-Development
-  ↓
-Testing
-  ↓
-Git / GitHub
-  ↓
-CI/CD
-  ↓
-Docker
-  ↓
-Cloud Infrastructure
-  ↓
-Monitoring & Observability
-  ↓
-Production 🚀
+Clean Code
+    ↓
+Good Architecture
+    ↓
+Automated Testing
+    ↓
+Reliable Infrastructure
+    ↓
+Observability
+    ↓
+Continuous Improvement
 ```
 
-I enjoy understanding the **whole system**, not just writing the code.
+I believe good software isn't just about making something work.
+
+It's about building systems that are:
+
+**Reliable • Maintainable • Secure • Scalable • Observable**
+
+---
+
+# 💻 Development Workflow
+
+```text
+Understand the Problem
+        ↓
+Design the Solution
+        ↓
+Build
+        ↓
+Test
+        ↓
+Version Control
+        ↓
+Deploy
+        ↓
+Monitor
+        ↓
+Improve
+```
 
 ---
 
@@ -232,17 +264,13 @@ I enjoy understanding the **whole system**, not just writing the code.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siphonhata&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
-
-# 📈 GitHub Activity
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siphonhata&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <p align="left">
 
@@ -266,24 +294,6 @@ I enjoy understanding the **whole system**, not just writing the code.
 
 ---
 
-## ⚡ A Little About Me
-
-```text
-Software Engineer
-        +
-Cloud & DevOps
-        +
-SRE & Observability
-        +
-Full-Stack Development
-        +
-IoT
-        =
-Building reliable systems 🚀
-```
-
-> **"Build things. Break things. Learn. Improve. Repeat."**
-
 <p align="center">
-  ⭐ If you find something useful here, feel free to star a repository!
+  <b>⚡ Build. Learn. Improve. Repeat. 🚀</b>
 </p>
