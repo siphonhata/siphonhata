@@ -1,263 +1,254 @@
 <h1 align="center">Hi 👋, I'm Sipho Ndlalane</h1>
 
-<h3 align="center">Software Engineer | Full-Stack Developer | Cloud & DevOps</h3>
+<h3 align="center">
+  Software Engineer · Full-Stack Developer · Cloud & DevOps
+</h3>
 
 <p align="center">
   <a href="https://github.com/siphonhata">
-    <img src="https://komarev.com/ghpvc/?username=siphonhata&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=siphonhata&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/siphonhata">
-    <img src="https://img.shields.io/github/followers/siphonhata?style=for-the-badge&logo=github" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/siphonhata?style=flat-square&logo=github" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/siphonhata?tab=repositories">
-    <img src="https://img.shields.io/github/stars/siphonhata?style=for-the-badge&logo=github" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/siphonhata?style=flat-square&logo=github" alt="GitHub Stars"/>
   </a>
+  <img src="https://img.shields.io/badge/Location-South%20Africa-007749?style=flat-square" alt="South Africa"/>
 </p>
 
 ---
 
 ## 👨🏾‍💻 About Me
 
-I'm a **Software Engineer from Pretoria, South Africa 🇿🇦** with a passion for building reliable, scalable and modern software systems.
+I'm a **Software Engineer based in Pretoria, South Africa 🇿🇦**, with 3+ years of experience building software across **backend, frontend, cloud infrastructure and connected systems**.
 
-My interests span across **backend engineering, full-stack development, cloud infrastructure, DevOps, SRE and IoT**.
+My main focus is currently around **Java 17, Spring Boot, Next.js and TypeScript**, while also working with cloud technologies, containers, infrastructure automation and observability.
 
-I enjoy working on problems that require more than just writing code — understanding how systems communicate, how they scale, how they fail and how they can be monitored and improved.
-
-* 💻 3+ years of software engineering experience
-* ☕ Java 17 & Spring Boot
-* ⚛️ Next.js, React & TypeScript
-* 🗄️ PostgreSQL, Supabase, MySQL & Firebase
-* ☁️ AWS & cloud technologies
-* 🐳 Docker & containerisation
-* 🏗️ Terraform & Infrastructure as Code
-* 📊 Prometheus, Grafana & ELK
-* 🔧 Git & GitHub
-* 📱 React Native & Expo
-* 🔌 IoT & connected systems
-* 🐧 Linux & server administration
-* 🚀 Interested in scalable and distributed systems
-
-> **I enjoy understanding how things work — from the frontend all the way down to the infrastructure.**
+I enjoy understanding the complete lifecycle of a system — **from writing the code, to deploying it, monitoring it and making sure it keeps working when things go wrong.**
 
 ---
 
-# 🧠 Engineering Focus
+## 🧩 What I Work With
 
-### ☕ Backend Engineering
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I enjoy building backend services and APIs using:
+### ☕ Backend
 
-`Java 17` • `Spring Boot` • `REST APIs` • `JPA/Hibernate` • `PostgreSQL`
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
 
-Areas of interest:
+<br><br>
 
-* API design
-* Authentication & authorisation
-* Database design
-* Asynchronous processing
-* Exception handling
-* Dependency Injection
-* Application architecture
-* Performance & scalability
+**Java 17 · Spring Boot · Node.js**
 
----
+REST APIs · JPA/Hibernate · Dependency Injection · Authentication · Asynchronous Processing · API Design
 
-### ⚛️ Full-Stack Development
+</td>
 
-Modern web development using:
+<td width="50%" valign="top">
 
-`Next.js` • `React` • `TypeScript` • `Tailwind CSS`
+### ⚛️ Frontend
 
-I enjoy building applications with a strong focus on:
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" />
 
-* Clean UI
-* Reusable components
-* API integration
-* Authentication
-* Responsive design
-* Performance
-* Maintainable architecture
+<br><br>
 
----
+**Next.js · React · TypeScript · Tailwind CSS**
+
+Modern web applications · Responsive UI · API integration · Component architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### ☁️ Cloud & DevOps
 
-Working with:
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,git,github" />
 
-`AWS` • `Docker` • `Terraform` • `Linux` • `Git` • `GitHub`
+<br><br>
 
-Areas I'm interested in:
+**AWS · Docker · Terraform · Linux · Git · GitHub**
 
-* Cloud infrastructure
-* Infrastructure as Code
-* Containerisation
-* CI/CD
-* Server provisioning
-* Deployment automation
-* Networking
-* Infrastructure security
+Cloud infrastructure · Infrastructure as Code · Containerisation · Server provisioning · Deployment
 
----
+</td>
 
-### 📊 SRE & Observability
+<td width="50%" valign="top">
 
-I've worked with monitoring and observability technologies including:
+### 🗄️ Data & Backend Services
 
-`Prometheus` • `Grafana` • `ELK Stack`
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" />
 
-I'm particularly interested in:
+<br><br>
 
-* Observability
-* Monitoring
-* Logging
-* Metrics
-* Alerting
-* SLIs
-* SLOs
-* SLAs
-* Golden Signals
-* MTTR
-* MTBF
-* Incident response
-* System reliability
-* Graceful failure
-* Fault tolerance
+**PostgreSQL · MySQL · Supabase · Firebase**
 
----
+Database design · Queries · Authentication · Backend services · Data management
 
-### 🔌 IoT & Connected Systems
+</td>
+</tr>
 
-I also have experience working with **IoT and connected systems**, including:
+<tr>
+<td width="50%" valign="top">
 
-* IoT gateways
-* Edge devices
-* Networking
-* Device monitoring
-* Server provisioning
-* Hardware/software integration
-* Connected infrastructure
+### 📊 Observability & SRE
 
----
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
 
-# 🛠️ Technology Stack
+<br><br>
 
-### Languages
+**Prometheus · Grafana · ELK Stack**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,typescript,javascript,python,cpp,c,cs,php" />
-</p>
+Monitoring · Logging · Metrics · Alerting · SLI · SLO · SLA · Golden Signals · MTTR · MTBF
 
-### Frontend
+</td>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css" />
-</p>
+<td width="50%" valign="top">
 
-### Backend
+### 📱 Mobile & IoT
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,androidstudio,arduino" />
 
-### Databases & Services
+<br><br>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase" />
-</p>
+**React Native · Expo · Android · Arduino**
 
-### Cloud & DevOps
+Mobile development · IoT · Edge devices · Connected systems · Hardware integration
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux,git,github" />
-</p>
-
-### Mobile
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,androidstudio" />
-</p>
-
-**React Native • Expo • Android**
-
-### Observability
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 📚 Currently Learning & Improving
+## 🏗️ How I Think About Engineering
 
-I'm continuously developing my skills in:
-
-* ☕ Advanced Java 17
-* 🌱 Spring Boot
-* 🏗️ System Design
-* 🔄 Distributed Systems
-* ⚡ Asynchronous Programming
-* ☁️ AWS Cloud Architecture
-* 🐳 Docker & Containers
-* 🏗️ Terraform
-* 📊 Observability & SRE
-* 🔐 Application Security
-* 🧪 Automated Testing
-* 🚀 Performance & Scalability
-* 🔁 CI/CD & Deployment Automation
-
----
-
-# 🏗️ Engineering Principles
+I don't see software development as simply writing code.
 
 ```text
-Clean Code
-    ↓
-Good Architecture
-    ↓
-Automated Testing
-    ↓
-Reliable Infrastructure
-    ↓
-Observability
-    ↓
-Continuous Improvement
+                    ┌──────────────────┐
+                    │   Problem        │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │   Architecture   │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │   Development   │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │     Testing      │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │     Deploy       │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │    Observe       │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │    Improve       │
+                    └──────────────────┘
 ```
 
-I believe good software isn't just about making something work.
+The goal is software that is:
 
-It's about building systems that are:
-
-**Reliable • Maintainable • Secure • Scalable • Observable**
+**Reliable · Maintainable · Secure · Scalable · Observable**
 
 ---
 
-# 💻 Development Workflow
+## 🧠 Areas I'm Interested In
 
-```text
-Understand the Problem
-        ↓
-Design the Solution
-        ↓
-Build
-        ↓
-Test
-        ↓
-Version Control
-        ↓
-Deploy
-        ↓
-Monitor
-        ↓
-Improve
-```
+<table>
+<tr>
+<td align="center" width="25%">
+<br>
+<b>Backend</b>
+<br><br>
+Java<br>
+Spring Boot<br>
+APIs<br>
+Distributed Systems
+<br><br>
+</td>
+
+<td align="center" width="25%">
+<br>
+<b>Cloud</b>
+<br><br>
+AWS<br>
+Docker<br>
+Terraform<br>
+Linux
+<br><br>
+</td>
+
+<td align="center" width="25%">
+<br>
+<b>SRE</b>
+<br><br>
+Observability<br>
+Monitoring<br>
+Reliability<br>
+Performance
+<br><br>
+</td>
+
+<td align="center" width="25%">
+<br>
+<b>Architecture</b>
+<br><br>
+Scalability<br>
+Fault Tolerance<br>
+System Design<br>
+Async Systems
+<br><br>
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+## 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java%2017-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+</p>
+
+<p align="center">
+<b>System Design · Distributed Systems · Cloud Architecture · SRE · Observability · Application Security</b>
+</p>
+
+---
+
+## 🛠️ My Engineering Toolkit
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,typescript,javascript,nextjs,react,nodejs,python,postgres,mysql,supabase,firebase,aws,docker,terraform,linux,git,github,prometheus,grafana,elasticsearch" />
+
+</p>
+
+---
+
+## 📈 GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siphonhata&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
@@ -270,30 +261,40 @@ Improve
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
 
-<a href="https://linkedin.com/in/sipho-ndlalane-802534187/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+<a href="https://linkedin.com/in/sipho-ndlalane-802534187/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
+
+  
 
 <a href="mailto:siphonhata@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45" />
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
-<a href="https://github.com/siphonhata" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="45" />
+  
+
+<a href="https://github.com/siphonhata">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
 </p>
 
-📧 **[siphonhata@gmail.com](mailto:siphonhata@gmail.com)**
-
-📍 **Pretoria, South Africa 🇿🇦**
+<p align="center">
+  📧 <b>siphonhata@gmail.com</b>
+  <br>
+  📍 Pretoria, South Africa 🇿🇦
+</p>
 
 ---
 
+<h3 align="center">
+  ⚡ Build · Learn · Improve · Repeat 🚀
+</h3>
+
 <p align="center">
-  <b>⚡ Build. Learn. Improve. Repeat. 🚀</b>
+  <i>"Good software doesn't just work — it keeps working."</i>
 </p>
