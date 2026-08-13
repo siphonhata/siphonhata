@@ -125,9 +125,6 @@ Mobile development · IoT · Edge devices · Connected systems · Hardware integ
 </td>
 </tr>
 </table>
-
----
-
 ---
 ## 📚 Currently Learning
 
@@ -167,8 +164,6 @@ Mobile development · IoT · Edge devices · Connected systems · Hardware integ
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siphonhata&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
----
 ---
 
 <h3 align="center">
