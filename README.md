@@ -153,18 +153,29 @@ Mobile development · IoT · Edge devices · Connected systems · Hardware integ
 </p>
 
 ---
-
 ## 📈 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siphonhata&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siphonhata&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siphonhata&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
----
+
+<p align="center">
+  <strong>🚀 Software Engineer • Full Stack Developer • Cloud & DevOps</strong>
+</p>
+
+<p align="center">
+  Building modern applications, exploring cloud technologies, and turning ideas into real-world products.
+</p>
+
+<p align="center">
+  <a href="https://github.com/siphonhata">
+    <img src="https://img.shields.io/github/followers/siphonhata?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/siphonhata?tab=repositories">
+    <img src="https://img.shields.io/github/stars/siphonhata?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 
 <h3 align="center">
   ⚡ Build · Learn · Improve · Repeat 🚀
