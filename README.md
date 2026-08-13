@@ -40,11 +40,11 @@ I enjoy understanding the complete lifecycle of a system — **from writing the 
 
 ### ☕ Backend
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,cs,dotnet,cpp" />
 
 <br><br>
 
-**Java 17 · Spring Boot · Node.js**
+**Java 17 · Spring Boot · Node.js · C# · .NET · C++**
 
 REST APIs · JPA/Hibernate · Dependency Injection · Authentication · Asynchronous Processing · API Design
 
@@ -125,8 +125,8 @@ Mobile development · IoT · Edge devices · Connected systems · Hardware integ
 </td>
 </tr>
 </table>
+
 ---
-## 📚 Currently Learning
 
 <p align="center">
 
@@ -148,11 +148,12 @@ Mobile development · IoT · Edge devices · Connected systems · Hardware integ
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,typescript,javascript,nextjs,react,nodejs,python,postgres,mysql,supabase,firebase,aws,docker,terraform,linux,git,github,prometheus,grafana,elasticsearch" />
+<img src="https://skillicons.dev/icons?i=java,spring,typescript,javascript,nextjs,react,nodejs,python,postgres,mysql,supabase,firebase,aws,docker,terraform,linux,git,github,prometheus,grafana,elasticsearch,cs,dotnet,cpp" />
 
 </p>
 
 ---
+
 ## 📈 GitHub
 
 <p align="center">
@@ -175,7 +176,6 @@ Mobile development · IoT · Edge devices · Connected systems · Hardware integ
     <img src="https://img.shields.io/github/stars/siphonhata?style=for-the-badge&logo=github" />
   </a>
 </p>
-
 
 <h3 align="center">
   ⚡ Build · Learn · Improve · Repeat 🚀
